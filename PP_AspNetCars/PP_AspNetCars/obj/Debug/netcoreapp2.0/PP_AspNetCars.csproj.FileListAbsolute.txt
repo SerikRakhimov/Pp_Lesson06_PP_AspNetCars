@@ -1,0 +1,22 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.deps.json
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.runtimeconfig.json
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.runtimeconfig.dev.json
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.AssemblyInfoInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.AssemblyInfo.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.pdb
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.deps.json
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.runtimeconfig.json
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.runtimeconfig.dev.json
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.dll
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\bin\Debug\netcoreapp2.0\PP_AspNetCars.pdb
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.AssemblyInfoInputs.cache
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.AssemblyInfo.cs
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.dll
+C:\Users\РахимовС\source\repos\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\PP_AspNetCars\obj\Debug\netcoreapp2.0\PP_AspNetCars.pdb
